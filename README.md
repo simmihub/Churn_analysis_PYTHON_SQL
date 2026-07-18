@@ -120,7 +120,7 @@ The project includes several visual analyses, such as:
 ```markdown
 ## Monthly Churn Trend
 
-![Monthly Churn Trend](Images/Monthly Churn Trend.png)
+![Monthly Churn Trend](Images/Monthly%20Churn%20Trend.png)
 
 ```
 
