@@ -109,20 +109,31 @@ The project measures important customer retention metrics, including:
 
 The project includes several visual analyses, such as:
 
-- Monthly Churn Trend
-- Churn Rate by State
-- Churn Rate by Plan Type
-- Correlation Heatmap
-- Pair Plot Analysis
-- Catplot Analysis
-- Pivot Table Analysis
-
-```markdown
 ## Monthly Churn Trend
 
-![Monthly Churn Trend](Images/Monthly%20Churn%20Trend.png)
+![Monthly Churn Trend](Images/Monthly_Churn_Trend.png)
 
-```
+## Churn Rate by State
+
+![Churn Rate by State](Images/churn_rate%20by_state.png)
+
+## Churn Rate by Plan Type
+
+![Churn Rate by Plan Type](Images/churn_rate_by_plan_type.png)
+
+## Correlation Heatmap
+
+![Correlation Heatmap](Images/Correlation_heatmap.png)
+
+## Pair Plot Analysis
+
+## Catplot Analysis
+
+![Catplot Analysis](Images/Catplot.png)
+
+## Pivot Table Analysis
+
+![Pivot Table Analysis](Images/pivot_table.png)
 
 ---
 
